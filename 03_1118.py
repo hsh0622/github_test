@@ -1,0 +1,7 @@
+print("^"*21)
+print("  연산 프로그램")
+print("^"*21)
+a = int(input("첫번째 값:"))
+b = int(input("두번째 값:"))
+print("^"*21)
+print(".....")
